@@ -11,3 +11,4 @@ __pycache__/
 *.receipt.json
 *.zip
 *.zip.tmp
+!RoE-kit.zip
