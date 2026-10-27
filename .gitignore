@@ -1,0 +1,13 @@
+# Bundled runtimes and generated/local data - not for the repo.
+.tools/
+runtime/
+runs/
+logs/
+state/
+private/
+launcher-settings.json
+__pycache__/
+*.pyc
+*.receipt.json
+*.zip
+*.zip.tmp

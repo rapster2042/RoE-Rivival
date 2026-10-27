@@ -1,0 +1,13 @@
+{
+  "rows": 2112,
+  "cols": 2112,
+  "format": "i16-le row-major",
+  "origin_x": 192000.0,
+  "origin_y": 192000.0,
+  "step_x": 200.0,
+  "step_y": 200.0,
+  "height_scale": 5.340657711029053,
+  "height_offset": 175002.671875,
+  "source": "RIGIDTERRAINLINUX.PXBIN (NxHeightField 2112x2112)",
+  "file": "heightfield_iceland_2022.bin"
+}
